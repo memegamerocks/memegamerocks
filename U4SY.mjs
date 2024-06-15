@@ -13,7 +13,7 @@ function W() { r.__framer_events.push(arguments) }
     let e = {
         augiA20Il: {
             elements: { IudoovWSv: "scroll", wIjPzJLDz: "scroll-1" },
-            page: s(() => import("https://raw.githubusercontent.com/memegamerocks/memegamerocks/main/JIIX.mjs")),  // Updated URL
+            page: s(() => import("./JIIX.mjs")),  // Updated relative path
             path: "/"
         },
         KGfq_P5QE: {

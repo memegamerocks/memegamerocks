@@ -18,7 +18,7 @@ function W() { r.__framer_events.push(arguments) }
         },
         KGfq_P5QE: {
             elements: {},
-            page: s(() => import("./lwiuJe58TvJGVmFok9mHVQz5bymtwZyYrM-qhJMDjuE.UY3W24SW.mjs")),
+            page: s(() => import("./24SW.mjs")),
             path: "/play"
         }
     },
